@@ -1,6 +1,5 @@
-# GRUPO: NICOLAS KEISMANAS - 23013693 e GUSTAVO TOLEDO - 21011066
+# GRUPO: NICOLAS KEISMANAS - 23013693  GUSTAVO TOLEDO - 21011066 HIGOR LONGUIM - 23000291
 # credencias pré-cadastradas: alice@puc.com / bob@puc.com
-
 
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 from cryptography.hazmat.primitives import hashes
